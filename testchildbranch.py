@@ -2,3 +2,4 @@
 # Adding a new file in child branch as testchildbranch.py.
 print("This .py is within the testchildbranch.")
 print("cloned using visual code. now I wonder if I can push the new code.")
+print("trying the push via vscode GitLens.")
